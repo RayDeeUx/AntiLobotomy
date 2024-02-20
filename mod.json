@@ -9,6 +9,7 @@
 	"name": "AntiLobotomy",
 	"developer": "RayDeeUx",
 	"description": "Disables difficulty faces, SFX, and Song triggers from loading in levels related to lobotomies.",
+	"repository": "https://github.com/RayDeeUx/AntiLobotomy",
 	"settings": {
 		"enabled": {
 			"name": "Enabled",
