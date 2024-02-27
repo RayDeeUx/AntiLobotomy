@@ -11,7 +11,7 @@ class $modify(MyPlayLayer, PlayLayer) {
     {
         self.setHookPriority("PlayLayer::addObject", 900);
     }
-	TodoReturn addObject(GameObject* p0) {
+	void addObject(GameObject* p0) {
         if (Mod::get()->getSettingValue<bool>("enabled") && std::regex_match(std::string(this->m_level->m_levelName), lobotomyName)) {
 			bool dontSkipThisObject = true;
 			auto id = p0->m_objectID;
