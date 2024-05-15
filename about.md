@@ -17,4 +17,4 @@ Who perished by skipping the mod settings
        /     \
        | o_o |
        |     |
-    ^^^^^^^^^^^^
+    ^^^^^^^^^^^^^
