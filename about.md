@@ -13,8 +13,8 @@ This memorial dedicated to those
 
 Who perished by skipping the mod settings
 
-        -----
-       /     \
-       | o_o |
-       |     |
-    ^^^^^^^^^^^^^
+		-----
+	   /	 \
+	   | o_o |
+	   |	 |
+	^^^^^^^^^^^^^
