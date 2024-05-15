@@ -10,8 +10,11 @@ There will not be a setting to apply this mod to all levels regardless of its na
 ## -- Wall of (F/Sh)ame --
 
 This memorial dedicated to those
+
 Who perished by skipping the mod settings
 
-- SDSlayer: 
-- Juniper: 
-- (Hopefully not you)
+        -----
+       /     \
+       | o_o |
+       |     |
+    ^^^^^^^^^^^^
