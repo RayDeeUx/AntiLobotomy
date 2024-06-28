@@ -1,5 +1,7 @@
 # AntiLobotomy
 
+Mod logo by [Brift](https://twitter.com/BriftXD)!
+
 Disables difficulty faces, SFX, and Song triggers from loading in levels related to lobotomies.
 
 Since this is done based on level name, there is no one-size-fits-all-solution.
