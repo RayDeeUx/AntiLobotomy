@@ -9,14 +9,4 @@ There will not be a setting to apply this mod to all levels regardless of its na
 
 *(Two YouTubers have already tried using this mod on Logodomy by TheMilkCat before checking the mod settings. Please don't be the third to make that mistake.)*
 
-## -- Wall of (F/Sh)ame --
-
-This memorial dedicated to those
-
-Who perished by skipping the mod settings
-
-	    -----
-	   /	 \
-	   | o_o |
-	   |	 |
-	^^^^^^^^^^^^^
+This [Geode mod](https://geode-sdk.org) is licensed under LGPLv2.
