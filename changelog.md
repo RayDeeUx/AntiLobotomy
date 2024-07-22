@@ -1,6 +1,6 @@
 # AntiLobotomy Changelog
 ## v1.2.0
-- Port to 2.206.
+- Port to 2.206. Big thanks to CatXus, Aktimoose, ninXout, and hiimjustin000 for helping out with testing!
 - macOS support!
 - Added disclaimer/warning on the kinds of levels this mod activates on.
 - New mod logo by [Brift](https://twitter.com/BriftXD)!
