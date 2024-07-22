@@ -9,4 +9,4 @@ There will not be a setting to apply this mod to all levels regardless of its na
 
 <cy>*(Two YouTubers have already tried using this mod on Logodomy by TheMilkCat before checking the mod settings. Please don't be the third to make that mistake.)*</c>
 
-This [Geode mod](https://geode-sdk.org) is licensed under LGPLv2. To report bugs or get help with using my mods, press the Discord button at the lower left corner.
+This [Geode mod](https://geode-sdk.org) is licensed under LGPLv2. To report bugs or get help with using my mods, press the Discord button in the lower left corner.
