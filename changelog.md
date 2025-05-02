@@ -1,4 +1,6 @@
 # AntiLobotomy Changelog
+## v1.3.1
+- Experimental iOS support.
 ## v1.3.0
 - Port to 2.2074.
 ## v1.2.0
